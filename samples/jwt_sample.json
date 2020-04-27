@@ -1,0 +1,28 @@
+{
+    "aud": "http://org.wso2.apimgt/gateway",
+    "sub": "80A6C6B1-9EAA-43F0-A837-4068B07B16B2",
+    "webId": "web77220265",
+    "application": {
+        "id": 106,
+        "name": "excel client",
+        "tier": "Unlimited",
+        "owner": "admin",
+    },
+    "scope": "fb_push",
+    "iss": "https://localhost:9443/oauth2/token",
+    "keytype": "PRODUCTION",
+    "subscribedAPIs": [
+        {
+            "name": "testlab",
+            "context": "/testlab/v1",
+            "version": "v1",
+            "publisher": "admin",
+            "subscriptionTier": "Unlimited",
+            "subscriberTenantDomain": "carbon.super"
+        }
+    ],
+    "consumerKey": "2f3oxxX9m_cqDRpqsM8kfHyGTpMa",
+    "exp": 1579579851,
+    "iat": 1579576251260,
+    "jti": "8635cc59-e092-4e58-bc36-a0f832934aef"
+}

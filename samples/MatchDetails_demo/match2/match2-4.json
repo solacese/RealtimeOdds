@@ -1,0 +1,106 @@
+﻿{
+   "matchID": "224d9637-4676-4e38-a10d-36749682a13b",
+   "matchIDinofficial": "20191126TUE3",
+   "matchNum": "3",
+   "matchDate": "2019-11-26+08:00",
+   "matchDay": "TUE",
+   "coupon": {
+      "couponID": "4",
+      "couponShortName": "TUE",
+      "couponNameCH": "周二賽事",
+      "couponNameEN": "Tuesday Matches"
+   },
+   "league": {
+      "leagueID": "6",
+      "leagueShortName": "UCL",
+      "leagueNameCH": "歐洲聯賽冠軍盃",
+      "leagueNameEN": "UE Champions"
+   },
+   "homeTeam": {
+      "teamID": "87",
+      "teamNameCH": "莫斯科火車頭C",
+      "teamNameEN": "Lokomotiv MoscowC"
+   },
+   "awayTeam": {
+      "teamID": "32",
+      "teamNameCH": "利華古遜C",
+      "teamNameEN": "LeverkusenC"
+   },
+   "matchStatus": "Defined",
+   "matchTime": "2019-11-27T01:55:00+08:00",
+   "statuslastupdated": "2019-11-24T18:05:59+08:00",
+   "inplaydelay": "false",
+   "channel": [
+      {
+         "order": 1,
+         "channelID": "643",
+         "channelNameCH": "NOW 643台",
+         "channelNameEN": "NOW 643"
+      },
+      {
+         "order": 2,
+         "channelID": "C656",
+         "channelNameCH": "有線656台",
+         "channelNameEN": "i-CABLE 656"
+      },
+      {
+         "order": 3,
+         "channelID": "C616",
+         "channelNameCH": "有線616台",
+         "channelNameEN": "i-CABLE 616"
+      },
+      {
+         "order": 4,
+         "channelID": "T303",
+         "channelNameCH": "無線 myTV Super 303台",
+         "channelNameEN": "TVB myTV Super 303"
+      }
+   ],
+   "liveEvent": {
+      "ilcLiveDisplay": true,
+      "hasLiveInfo": true,
+      "isIncomplete": false,
+      "matchIDbetradar": "19323772",
+      "matchstate": "BeforeKickOff",
+      "stateTS": "",
+      "liveevent": []
+   },
+   "cornerresult": "",
+   "hasWebTV": false,
+   "hadodds": {
+      "H": "100@4.45",
+      "A": "100@1.65",
+      "D": "100@4.75",
+      "ID": "23e02fa7-819a-4916-baf1-93996e7add76",
+      "POOLSTATUS": "Selling",
+      "ET": "0",
+      "INPLAY": "true",
+      "ALLUP": "true",
+      "Cur": "1"
+   },
+   "hasExtraTimePools": false,
+   "results": {},
+   "definedPools": [
+      "HAD",
+      "FHA",
+      "CRS",
+      "FCS",
+      "FTS",
+      "OOE",
+      "TTG",
+      "HFT",
+      "HHA",
+      "HDC",
+      "HIL",
+      "FHL",
+      "CHL",
+      "NTS"
+   ],
+   "inplayPools": [
+      "HAD",
+      "HIL",
+      "CHL",
+      "CRS",
+      "NTS"
+   ]
+}
